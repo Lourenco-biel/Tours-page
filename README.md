@@ -1,6 +1,6 @@
 # tours page
 
-<img src="./img/Page-print.jpg" alt="page menu">
+<img src="./img/Page-print.JPG" alt="IMG-PAGE">
 
 
 > Projeto em Andamento 👩‍🔧
