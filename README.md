@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto trata-se de uma lange page sobre passeios com resposividade ! Espero que tenha curtido 😉
+Este projeto trata-se de uma landing page sobre passeios com resposividade ! Espero que tenha curtido 😉
 
 <br>
 
