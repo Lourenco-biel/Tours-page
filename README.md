@@ -1,6 +1,6 @@
 # tours page
 
-<img src="./img/Page-print.jpg" alt="page menu">
+<img src="./img/Page-print.JPG" alt="IMG-PAGE">
 
 
 > Projeto em Andamento 👩‍🔧
@@ -8,11 +8,11 @@
 
 ## 💻 Sobre o Projeto
 
-Este projeto trata-se de uma lange page sobre passeios com resposividade ! Espero que tenha curtido 😉
+Este projeto trata-se de uma landing page sobre passeios com resposividade ! Espero que tenha curtido 😉
 
 <br>
 
-##Ajustes e melhorias
+## 🔧Ajustes e melhorias
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [x] HTML
